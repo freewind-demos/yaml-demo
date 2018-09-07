@@ -1,6 +1,7 @@
 # This is the first document
 name: yaml demo file
 date: 2018-09-07
+special: 中文也是可以的
 
 ---
 
